@@ -1,10 +1,10 @@
-package com.swyp.worrynote;
+package com.swyp.gaezzange;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class WorrynoteApplicationTests {
+class GaezzangeApplicationTests {
 
 	@Test
 	void contextLoads() {
